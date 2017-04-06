@@ -1,0 +1,5 @@
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Dominio\bin\Debug\MvcApplication1.Dominio.dll
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Dominio\bin\Debug\MvcApplication1.Dominio.pdb
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Dominio\obj\Debug\MvcApplication1.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Dominio\obj\Debug\MvcApplication1.Dominio.dll
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Dominio\obj\Debug\MvcApplication1.Dominio.pdb

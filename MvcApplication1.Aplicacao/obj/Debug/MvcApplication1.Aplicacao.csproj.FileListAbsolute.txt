@@ -1,0 +1,16 @@
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\bin\Debug\MvcApplication1.Aplicacao.dll
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\bin\Debug\MvcApplication1.Aplicacao.pdb
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\bin\Debug\MvcApplication1.Dominio.dll
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\bin\Debug\MvcApplication1.Repositorio.dll
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\bin\Debug\MvcApplication1.Dominio.pdb
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\bin\Debug\MvcApplication1.Repositorio.pdb
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\obj\Debug\MvcApplication1.Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\obj\Debug\MvcApplication1.Aplicacao.dll
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\obj\Debug\MvcApplication1.Aplicacao.pdb
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\bin\Debug\MvcApplicattion1.RepositorioEF.dll
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\bin\Debug\EntityFramework.dll
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\bin\Debug\MvcApplicattion1.RepositorioEF.pdb
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\bin\Debug\MvcApplicattion1.RepositorioEF.dll.config
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\bin\Debug\EntityFramework.xml
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isabela\Desktop\Nova pasta\MvcApplication1\MvcApplication1.Aplicacao\bin\Debug\EntityFramework.SqlServer.xml

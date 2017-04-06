@@ -1,0 +1,24 @@
+﻿@model IEnumerable<MvcApplication1.Dominio.Restaurante>
+
+<br>
+<td>@Html.ActionLink("Novo Restaurante", "Cadastrar")</td>
+<br>
+<br>
+
+<table class="table">
+ 
+    <th>Restaurantes</th>
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Editar", new { id=item.Id }) |
+            @Html.ActionLink("Detalhes", "Detalhes", new { id=item.Id }) |
+            @Html.ActionLink("Excluir", "Excluir", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

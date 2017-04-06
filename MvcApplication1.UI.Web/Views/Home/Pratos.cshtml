@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "Pratos";
+}
+
+<h2>Pratos</h2>
+
+<html>
+<head>
+</head>
+<body>
+    <fieldset>
+        <legend>PRATOS</legend>
+
+        <form action="ListaPratos" method="POST" name="form" target="" id="form" onsubmit="">
+            <div>
+                <label for="NomeRestaurante">Restaurante</label>
+            </div>
+            <div>
+                <input type="text" value="" id="NomeRestaurante" name="NomeRestaurante" />
+            </div>
+            <div>
+                <label for="Nome">Prato</label>
+            </div>
+            <div>
+                <input type="text" value="@Model.Nome" id="Nome" name="Nome" />
+            </div>
+            <div>
+                <label for="Preco">Preco(R$)</label>
+            </div>
+            <div>
+                <input type="text" value="@Model.Preco" id="Preco" name="Preco" />
+            </div>
+
+            <input type="submit" value="Cadastrar novo Prato" id="Cadastrar" />
+
+            <style>
+                #Cadastrar {
+                    background-color: green;
+                    color: white;
+                }
+            </style>
+
+        </form>
+    </fieldset>
+</body>
+</html>

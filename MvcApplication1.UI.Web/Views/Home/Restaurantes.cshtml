@@ -1,0 +1,60 @@
+﻿@model IEnumerable<MvcApplication1.Dominio.Restaurante>
+@{
+    ViewBag.Title = "Restaurantes";
+}
+
+<html>
+<head>
+
+</head>
+<body>
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>RESTAURANTES</legend>
+
+        <form action="" method="POST" name="form" target="" id="form" onsubmit="">
+
+            <div>
+                <label for="Nome">Nome:</label>
+            </div>
+            <div>
+                <input type="text" value="@Model.Nome" id="Nome" name="Nome" />
+            </div>
+
+            </fildset>
+
+            <p>
+                <input name="Cadastrar novo Restaurante" type="submit" id="Cadastrar" value="Cadastrar novo Restaurante">
+                @*<input name="Cadastrar novo Restaurante" type="submit" id="Cadastrar" value="Cadastrar novo Restaurante" onclick="Enviar(1);">*@
+                <input type="submit" id="Pesquisar" value="Pesquisar" />
+            </p>
+
+            @*ESTILOS*@
+            <style>
+                #Pesquisar {
+                    background-color: blue;
+                    color: white;
+                }
+            </style>
+
+            <style>
+                #Cadastrar {
+                    background-color: green;
+                    color: white;
+                }
+            </style>
+
+        </form>
+    </fieldset>
+</body>
+
+<h2>Lista de Restaurantes</h2>
+
+<ul>
+    @foreach (var restaurante in Model)
+    {
+        <li>@restaurante.Nome</li>
+    }
+</ul>
+</html>
+
